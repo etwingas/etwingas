@@ -1,9 +1,6 @@
 Python Continuous Documentation
 ===============================
 
-[![Build Status](https://travis-ci.com/icgood/continuous-docs.svg?branch=main)](https://travis-ci.com/icgood/continuous-docs)
-[![Docs](https://img.shields.io/badge/docs-latest-informational)](https://icgood.github.io/continuous-docs/)
-
 ## Introduction
 
 If you own a Python library that uses [Sphinx formatted][1] docstrings, it's
